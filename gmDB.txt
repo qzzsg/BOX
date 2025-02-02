@@ -9,7 +9,7 @@
       "name": "七星影仓"
     },
         {
-      "url": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/CJ.json",
+      "url": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/CJGY.json",
       "name": "超级线路"
     },
         {

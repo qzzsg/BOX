@@ -9,12 +9,24 @@
       "name": "七星影仓"
     },
         {
-      "url": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/CJGY.json",
+      "url": "http://www.饭太硬.com/tv",
+      "name": "饭硬专线"
+    },
+        {
+      "url": "http://www.饭太硬.xyz/tv",
+      "name": "饭硬备用"
+    },
+        {
+      "url": "http://www.fish2018.us.kg/p/jsm.json",
+      "name": "PG线路"
+    },
+        {
+      "url": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/CJ.json",
       "name": "超级线路"
     },
         {
-      "url": "http://www.饭太硬.com/tv",
-      "name": "饭硬专线"
+      "url": "http://175.178.251.183:6689/tv.txt",
+      "name": "懒人线路"
     },
         {
       "url": "https://100km.top/0",
@@ -24,7 +36,10 @@
       "url": "http://meowtv.top/tv",
       "name": "喵影视线"
     },
-
+    {
+      "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+      "name": "小苹果"
+    },
     {
       "url": "https://szyyds.cn/tv/x.json",
       "name": "小马线路"
@@ -33,7 +48,10 @@
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
       "name": "南风线路"
     },
-
+    {
+      "url": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json",
+      "name": "影视仓Box"
+    },
     {
       "url": "http://2883.kstore.space/nzk/nzk0722.json",
       "name": "D佬魔改"
@@ -59,8 +77,8 @@
       "name": "小米线路"
     },
     {
-      "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
-      "name": "PG线路"
+      "url": "https://mpanso.me/DEMO.json",
+      "name": "小米备用"
     },
     {
       "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",

@@ -1,4 +1,4 @@
-﻿{
+{
   "urls": [
     {
       "url": "http://www.饭太硬.com/tv",
@@ -45,10 +45,6 @@
       "name": "王二小5"
     },
     {
-      "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
-      "name": "小苹果"
-    },
-    {
       "url": "https://szyyds.cn/tv/x.json",
       "name": "小马线路"
     },
@@ -61,10 +57,6 @@
       "name": "影视仓Box"
     },
     {
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
-      "name": "不良帅线"
-    },
-        {
       "url": "https://ztha.top/TVBox/thdjk.json",
       "name": "挺好线路"
     },
@@ -91,10 +83,6 @@
     {
       "url": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json",
       "name": "小米线5"
-    },
-    {
-      "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
-      "name": "道长线路"
     },
     {
       "url": "http://我不是.摸鱼儿.com",
@@ -153,7 +141,7 @@
       "name": "潇洒线路"
     },
     {
-      "url": "https://hb.xyyh.online/tvbox/",
+      "url": "http://hb.小虎斑.site:25252/仅供测试",
       "name": "虎斑线路"
     },
     {
@@ -177,8 +165,8 @@
       "name": "真心线路"
     },
     {
-      "url": "http://tv.nxog.top/dc/1.php?id=2",
-      "name": "欧歌多线"
+      "url": "https://xn--svvs-rp5imh.v.nxog.top/api2.php?id=2?&WON",
+      "name": "光歌线路"
     },
     {
       "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",

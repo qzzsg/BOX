@@ -181,7 +181,7 @@
       "name": "欧歌多线"
     },
     {
-      "url": "https://cnb.cool/fish2018/duanju/-/blob/main/tvbox.json",
+      "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
       "name": "短剧线路"
     },
     {

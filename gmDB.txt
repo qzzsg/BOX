@@ -1,0 +1,192 @@
+﻿{
+  "urls": [
+    {
+      "url": "http://www.饭太硬.com/tv",
+      "name": "饭太硬1"
+    },
+    {
+      "url": "http://www.饭太硬.net/tv",
+      "name": "饭太硬2"
+    },
+    {
+      "url": "http://www.饭太硬.xyz/tv",
+      "name": "饭太硬3"
+    },
+    {
+      "url": "http://fty.xxooo.cf/tv",
+      "name": "饭太硬4"
+    },
+    {
+      "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp",
+      "name": "饭太硬5"
+    },
+    {
+      "url": "http://肥猫.com",
+      "name": "肥猫线路"
+    },
+    {
+      "url": "http://tvbox.王二小放牛娃.top",
+      "name": "王二小1"
+    },
+    {
+      "url": "http://tv.999888987.xyz",
+      "name": "王二小2"
+    },
+    {
+      "url": "http://tv.999888123.xyz",
+      "name": "王二小3"
+    },
+    {
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
+      "name": "王二小5"
+    },
+    {
+      "url": "https://9280.kstore.space/wex.json",
+      "name": "王二小5"
+    },
+    {
+      "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+      "name": "小苹果"
+    },
+    {
+      "url": "https://szyyds.cn/tv/x.json",
+      "name": "小马线路"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "name": "南风线路"
+    },
+    {
+      "url": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json",
+      "name": "影视仓Box"
+    },
+    {
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
+      "name": "不良帅线"
+    },
+        {
+      "url": "https://ztha.top/TVBox/thdjk.json",
+      "name": "挺好线路"
+    },
+    {
+      "url": "https://qixing.myhkw.com/qxzj/七星智教",
+      "name": "少儿频道"
+    },
+    {
+      "url": "http://www.mpanso.com/小米/DEMO.json",
+      "name": "小米线1"
+    },
+    {
+      "url": "http://miqk.cc/小米/DEMO.json",
+      "name": "小米线2"
+    },
+    {
+      "url": "https://cnb.cool/xiaocge/go-media/-/git/raw/main/test.json",
+      "name": "小米线3"
+    },
+    {
+      "url": "https://13826.kstore.space/DEMO.json",
+      "name": "小米线4"
+    },
+    {
+      "url": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json",
+      "name": "小米线5"
+    },
+    {
+      "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+      "name": "道长线路"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.com",
+      "name": "摸鱼线路"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.xyz",
+      "name": "摸鱼备用"
+    },
+    {
+      "url": "https://6492.kstore.space/xnf/xnf.json",
+      "name": "环宇轩线"
+    },
+    {
+      "url": "http://mzjk.top/禁止贩卖",
+      "name": "宝盒线路"
+    },
+    {
+      "url": "https://tv.xn--yhqu5zs87a.top",
+      "name": "菜妮丝线"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "name": "香雅情线"
+    },
+    {
+      "url": "https://www.252035.xyz/p/jsm.json",
+      "name": "PG线路"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json",
+      "name": "分享者"
+    },
+    {
+      "url": "https://weixine.net/ysc.json",
+      "name": "运输车线"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+      "name": "老刘线路"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "name": "高天流云"
+    },
+    {
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "俊佬线路"
+    },
+    {
+      "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
+      "name": "青龙影线"
+    },
+    {
+      "url": "https://9877.kstore.space/AnotherD/api.json",
+      "name": "潇洒线路"
+    },
+    {
+      "url": "https://hb.xyyh.online/tvbox/",
+      "name": "虎斑线路"
+    },
+    {
+      "url": "http://ok321.top/ok",
+      "name": "OK线1"
+    },
+    {
+      "url": "http://ok321.top/tv",
+      "name": "OK线2"
+    },
+    {
+      "url": "http://tv.laohu.cool/tvbox.json",
+      "name": "老虎线路"
+    },
+    {
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+      "name": "ONE线路"
+    },
+    {
+      "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
+      "name": "真心线路"
+    },
+    {
+      "url": "http://tv.nxog.top/dc/1.php?id=2",
+      "name": "欧歌多线"
+    },
+    {
+      "url": "https://cnb.cool/fish2018/duanju/-/blob/main/tvbox.json",
+      "name": "短剧线路"
+    },
+    {
+      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
+      "name": "短剧大全"
+    }
+  ]
+}

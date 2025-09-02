@@ -135,7 +135,7 @@
     {
       "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
       "name": "拾光单线"
-    }
+    },
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
       "name": "香雅情线"
@@ -223,10 +223,10 @@
     {
       "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
       "name": "短剧大全"
-    }
+    },
     {
       "url": "https://qixing.myhkw.com/qxzj/七星智教",
       "name": "少儿频道"
-    },
+    }
   ]
 }

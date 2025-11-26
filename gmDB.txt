@@ -21,7 +21,7 @@
       "name": "饭太硬5"
     },
     {
-      "url": "https://7337.kstore.space/kjtv/自用测试.json",
+      "url": "https://7337.kstore.vip/tw.json",
       "name": "天微单线"
     },
     {
@@ -65,7 +65,7 @@
       "name": "小苹果线"
     },
     {
-      "url": "https://11256.kstore.space/qxys/禁止传播.json",
+      "url": "https://7337.kstore.vip/qxys/禁止传播.json",
       "name": "七星影视"
     },
     {
@@ -224,9 +224,6 @@
       "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
       "name": "短剧大全"
     },
-    {
-      "url": "https://qixing.myhkw.com/qxzj/七星智教",
-      "name": "少儿频道"
-    }
   ]
 }
+

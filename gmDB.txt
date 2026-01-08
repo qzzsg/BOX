@@ -57,12 +57,8 @@
       "name": "王二小6"
     },
     {
-      "url": "https://szyyds.cn/tv/x.json",
-      "name": "小马线路"
-    },
-    {
-      "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
-      "name": "小苹果线"
+      "url": "https://yydsys.netlify.app/config.json",
+      "name": "多多线路"
     },
     {
       "url": "https://7337.kstore.vip/qxys/禁止传播.json",
@@ -70,26 +66,30 @@
     },
     {
       "url": "https://gh-proxy.com//https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "南风线路1"
+      "name": "南风线路"
     },
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/000.json",
-      "name": "南风线路2"
+      "name": "分享线路"
     },
     {
-      "url": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json",
+      "url": "http://www.su7.run/",
       "name": "影视仓Box"
     },
     {
-      "url": "https://ztha.top/TVBox/thdjk.json",
-      "name": "挺好线路"
+      "url": "https://700sjro44343.vicp.fun/eggp/0615/tv.php",
+      "name": "影视仓备用"
+    },
+    {
+      "url": "http://ok321.top/ok",
+      "name": "OK外部"
     },
     {
       "url": "http://ok321.top/tv",
-      "name": "OK频道"
+      "name": "OK内部"
     },
     {
-      "url": "http://www.mpanso.com/小米/DEMO.json",
+      "url": "http://mitvbox.xyz/小米/DEMO.json",
       "name": "小米线1"
     },
     {
@@ -97,24 +97,12 @@
       "name": "小米线2"
     },
     {
-      "url": "https://cnb.cool/xiaocge/go-media/-/git/raw/main/test.json",
-      "name": "小米线3"
-    },
-    {
-      "url": "https://13826.kstore.space/DEMO.json",
-      "name": "小米线4"
-    },
-    {
       "url": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json",
-      "name": "小米线5"
+      "name": "小米线3"
     },
     {
       "url": "http://我不是.摸鱼儿.com",
       "name": "摸鱼线路"
-    },
-    {
-      "url": "http://我不是.摸鱼儿.xyz",
-      "name": "摸鱼备用"
     },
     {
       "url": "https://6492.kstore.space/xnf/xnf.json",
@@ -145,24 +133,12 @@
       "name": "PG线路"
     },
     {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/000.json",
-      "name": "分享者"
-    },
-    {
-      "url": "https://weixine.net/ysc.json",
-      "name": "运输车线"
-    },
-    {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
       "name": "老刘线路"
     },
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "name": "高天流云"
-    },
-    {
-      "url": "http://home.jundie.top:81/top98.json",
-      "name": "俊佬线路"
     },
     {
       "url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json",
@@ -174,23 +150,11 @@
     },
     {
       "url": "http://hb.小虎斑.site:25252/仅供测试",
-      "name": "虎斑线路1"
+      "name": "虎斑线路"
     },
     {
-      "url": "https://hb.xyyh.online/tvbox/",
+      "url": "https://700sjro44343.vicp.fun/240731/one/",
       "name": "虎斑线路2"
-    },
-    {
-      "url": "http://ok321.top/ok",
-      "name": "OK线1"
-    },
-    {
-      "url": "http://ok321.top/tv",
-      "name": "OK线2"
-    },
-    {
-      "url": "http://meowtv.cn/tv",
-      "name": "喵影单线"
     },
     {
       "url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
@@ -199,14 +163,6 @@
     {
       "url": "http://tv.laohu.cool/tvbox.json",
       "name": "老虎线路"
-    },
-    {
-      "url": "http://tv.laohu.cool/tvbox.json",
-      "name": "骚零单线"
-    },
-    {
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "ONE线路"
     },
     {
       "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
@@ -219,11 +175,6 @@
     {
       "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
       "name": "短剧线路"
-    },
-    {
-      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
-      "name": "短剧大全"
-    },
+    }
   ]
 }
-

@@ -33,6 +33,10 @@
       "name": "肥猫线路2"
     },
     {
+      "url": "https://9280.kstore.vip/newwex.json",
+      "name": "二小新线"
+    },
+    {
       "url": "http://tvbox.王二小放牛娃.top",
       "name": "王二小1"
     },
@@ -178,3 +182,4 @@
     }
   ]
 }
+

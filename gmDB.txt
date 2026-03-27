@@ -85,11 +85,11 @@
       "name": "影视仓备用"
     },
     {
-      "url": "http://ok321.top/ok",
+      "url": "http://ok521.top/ok",
       "name": "OK外部"
     },
     {
-      "url": "http://ok321.top/tv",
+      "url": "http://ok521.top/tv",
       "name": "OK内部"
     },
     {
@@ -107,6 +107,14 @@
     {
       "url": "http://我不是.摸鱼儿.com",
       "name": "摸鱼线路"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.top",
+      "name": "摸鱼备用"
+    },
+    {
+      "url": "https://6800.kstore.vip/fish.json",
+      "name": "摸鱼凯速"
     },
     {
       "url": "https://6492.kstore.space/xnf/xnf.json",
@@ -182,4 +190,3 @@
     }
   ]
 }
-
